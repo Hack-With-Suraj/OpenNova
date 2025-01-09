@@ -69,26 +69,78 @@ This platform is specifically designed for learners who aspire to:
 
 <br>
 
-> **Note** :- 
+> **Note 1** :- 
 > 1.  If your goal is job preparation or gaining a general understanding of these fields, resources like [OSSU CS](https://github.com/ossu/computer-science) and [OSSU Math](https://github.com/ossu/math) are excellent choices. OpenNova, however, is for learners who aim to leave a mark and contribute meaningfully to these disciplines.
 > 2. Starting in 2 years Open Nova is focusing on providing Best Structured and best resources curriculum for gaining full bachelor's degree level Skills in Computer Science, Mathematics, and Physics, while also engaging with cutting-edge fields like quantum computing.
 
-## Mathematics Prerequisites
+<br/>
+
+## 1. Mathematics Prerequisites (via Khan Academy):
+
+> **Note 2** :- We assume That students have 0 Knowledge In mathematics because Future Topics Require a Strong foundation in Algebra and Geometry and This Algebra and Geometry By Khan Academy Will Provide You with Proper Knowledge From Scratch Start With Zero You Can Skip Luctures And give a Test or solve Prictic Questions and if you stuck in any topic then revise that topic and Mester it. 
+
 Mathematics is the backbone of all three fields. Having a strong foundation in mathematics will be invaluable, regardless of the specialization.
 
 For a solid foundation, start with the following courses on **Khan Academy** :
 
-> **Note** :- We assume That students have 0 Knowledge In mathematics because Future Topics Require a Strong foundation in Algebra and Geometry and This Algebra and Geometry By Khan Academy Will Provide You with Proper Knowledge From Scratch Start With Zero You Can Skip Luctures And give a Test or solve Prictic Questions and if you stuck in any topic then revise that topic and Mester it 
 
 1. [**Algebra**](https://www.khanacademy.org/math/algebra-home)
+  - **Purpose** : Teaches foundational skills such as solving equations, manipulating expressions, and understanding functions.
+  - **Why It’s Important** : Algebra is critical for building logic, foundational in computer science and quantum mechanics. You’ll use algebra extensively in algorithms, data structures, and quantum physics.
 2. [**Geometry**](https://www.khanacademy.org/math/geometry-home)
+  - **Purpose** :Focuses on the properties and relationships of shapes, sizes, and spaces.
+  - **Why It’s Important** : Geometry sharpens spatial reasoning and visualization skills, valuable in computer graphics, simulations, and physics problems involving spatial dimensions.
+3. [**Trigonometry**](https://www.khanacademy.org/math/trigonometry)
+  - **Purpose** :Explores the relationships between angles and sides of triangles and introduces periodic functions.
+  - **Why It’s Important** : Trigonometry is essential in quantum mechanics (e.g., wave functions, oscillations) and fields like computer vision and signal processing.
+4. [**Precalculus**](https://www.khanacademy.org/math/precalculus)
+  - **Purpose** :Prepares you for calculus by covering advanced algebra, functions, and an introduction to limits.
+  - **Why It’s Important** : Precalculus bridges the gap to calculus, which is fundamental for advanced physics, machine learning, and quantum computing.
 
-Crucial for spatial reasoning, which is fundamental in Physics and CS (e.g., graphics, simulations).
-
-1. [**Trigonometry**](https://www.khanacademy.org/math/trigonometry)
-2. [**Precalculus**](https://www.khanacademy.org/math/precalculus)
-
-it Prepares you for calculus, the foundation of advanced mathematics and physics.
-
+After covering Algebra , Geomatry , trignometry , precalcus and mester this topics 
 These courses will establish a robust mathematical foundation necessary for deeper exploration into advanced topics in Computer Science, Mathematics, and Physics.
+
+## 2. Introduction to Mathematical Thinking :
+Most people's views of mathematics are destroyed in school by focusing on memorization and regurgitation. But ***mathematicians see math as an elegant way to explain the world around us***. This class covers how to think like a mathematician and solve problems. 
+
+**Topics covered:**
+`Mathematical mindset`
+`Number Theory`
+`Logical reasoning`
+`Abstract thinking`
+`Problem-solving approaches`
+`Proof techniques (essential for higher mathematics)`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | 10 weeks | 4 hours/week | none
+
+### Why It’s Important ?
+Essential for understanding advanced math topics like abstract algebra, calculus, and linear algebra.
+> Helps bridge the gap between "doing math" (basic calculations) and "thinking mathematically," which is crucial for research and theoretical understanding.
+
+Great preparation for tackling rigorous proofs and mathematical formalism in quantum computing and theoretical computer science.
+
+### When to Start:
+You can begin Mathematical Thinking after completing Algebra, Geometry, and Trigonometry from Khan Academy. These topics give you the basic tools you'll need to understand the course content.
+
+## 3. Technical Documentation:
+LaTeX is a document preparation system used widely in academic and scientific communities. 
+**Topics covered:**
+`How to create professional-looking documents with mathematical formulas, equations, and formatting.`
+`How to structure papers for research, assignments, or even books.`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) | 1 week | 30 minutes/week | none
+
+### Why It’s Important ?
+Essential for anyone writing research papers, academic reports, or books in mathematics, physics, or computer science. LaTeX is often required for formatting in journals, theses, and technical publications.
+
+### When to Start :
+You can start learning LaTeX immediately, as it does not require advanced math knowledge.
+Start with basic knowledge, and as you progress in math, you can integrate more advanced features (e.g., complex equations, and diagrams).
+
+
+
 
